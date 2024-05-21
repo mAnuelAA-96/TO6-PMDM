@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#C62828</color>
+    <color name="green">#40C628</color>
+    <color name="blue">#283593</color>
+    <color name="yellow">#F9A825</color>
+
+    <!-- Colores trazo del dibujo (los RadioButton están en español) -->
+    <color name="negro">#FF000000</color>
+    <color name="blanco">#FFFFFFFF</color>
+    <color name="rojo">#C62828</color>
+    <color name="verde">#40C628</color>
+    <color name="azul">#283593</color>
+    <color name="amarillo">#F9A825</color>
+
+    <!-- Colores estilo aplicación -->
+    <color name="green1">#00695C</color>
+    <color name="green2">#213A57</color>
+    <color name="green3">#0B6477</color>
+    <color name="green4">#14919B</color>
+    <color name="green5">#0AD1C8</color>
+</resources>
