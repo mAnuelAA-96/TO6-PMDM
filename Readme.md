@@ -1,3 +1,5 @@
+Google Api Key eliminada por motivos de seguridad.
+
 EJERCICIO 1
 
 El ejercicio 1 se compone de dos clases, la propia clase de la actividad, Ejercicio1, y la clase AreaDibujo que será la encargada de recoger los trazos realizados en la pantalla.
