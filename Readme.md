@@ -1,4 +1,4 @@
-Google Api Key eliminada por motivos de seguridad.
+Eliminada API KEY para Google Maps por motivos de seguridad. Para la reproducción de este proyecto es necesario introducir una nueva Key para el funcionamiento de los mapas.
 
 EJERCICIO 1
 
